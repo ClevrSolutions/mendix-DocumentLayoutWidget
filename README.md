@@ -1,3 +1,8 @@
+## Clevr Specific
+The first version of this project is based on release 1.1.0 of : https://github.com/Itvisors/mendix-DocumentLayoutWidget
+
+This project is created so that it can be maintained internally for future reference so that it is not automatically updated or Clevr is not dependable on someone outside the company.
+
 ## DocumentLayoutWidget
 Use a header and footer in the new document generation feature
 
